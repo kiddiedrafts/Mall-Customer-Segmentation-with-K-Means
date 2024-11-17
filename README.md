@@ -14,7 +14,7 @@ The dataset used in this project is sourced from Kaggle and can be found at the 
 - **Annual Income (k$)**: Annual income of the customer in thousands of dollars.
 - **Spending Score (1-100)**: Customer's spending score, with higher scores indicating more willingness to spend.
 
-
+  
 ### Dataset Location
 
 - **Data/**: This folder will contain the dataset files downloaded from Kaggle.
